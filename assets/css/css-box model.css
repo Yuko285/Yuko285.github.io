@@ -1,0 +1,58 @@
+ body{
+    background-color: aquamarine;
+    opacity: .7;
+ }
+
+h1{
+    /* background-color: blueviolet; */
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+ }
+
+img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+    height: 150px;
+}
+
+div{
+    background-color: aliceblue;
+    margin: 50px 10px 20px 5px;
+    padding: 20px ;
+    border-width: 1px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 10px;
+}
+
+.border{
+    border: 10px dashed purple;
+    border-radius: 15px;
+}
+
+.div{
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
+
+.div-shadow{
+    box-shadow: 10px 15px 10px red;
+}
+
+
+.text-align{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.center-block{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,83 @@
+.box-1{
+    width: 150px;
+    height: 150px;
+    background: tomato;
+    position: relative;
+    z-index: 3;
+}
+
+.box-2{
+    width: 150px;
+    height: 150px;
+    background: thistle;
+    position: relative;
+    top: -75px;
+    left: 75px;
+    z-index: 2;
+}
+
+.box-3{
+    width: 150px;
+    height: 150px;
+    background: teal;
+    position: relative;
+    top: -150px;
+    left: 150px;
+}
+
+.circle-1{
+    width: 150px;
+    height: 150px;
+    background: yellow;
+    border-radius: 100px;
+}
+
+/* Olympic Ring */
+
+.circle-2{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(24, 107, 241);
+    border-radius: 100px;
+    position: relative;
+}
+
+.circle-3{
+    width: 150px;
+    height: 150px;
+    border: 5px solid yellow;
+    border-radius: 100px;
+    position: relative;
+    top: -75px;
+    left: 100px;
+}
+
+.circle-4{
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    border-radius: 100px;
+    position: relative;
+    top: -315px;
+    left: 200px;
+}
+
+.circle-5{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(2, 189, 2);
+    border-radius: 100px;
+    position: relative;
+    top: -390px;
+    left: 300px;
+}
+
+.circle-6{
+    width: 150px;
+    height: 150px;
+    border: 5px solid red;
+    border-radius: 100px;
+    position: relative;
+    top: -640px;
+    left: 400px;
+}

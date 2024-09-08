@@ -1,0 +1,122 @@
+.w-100px{
+    width: 100px;
+}
+
+.w-50-percent{
+    width: 50%;
+}
+
+.h-250px{
+    height: 250px;
+}
+
+.h-50-percent{
+    height: 50%;
+}
+
+.bg-img{
+    background-image: url(../images/fruits.jpg);
+}
+
+.bg-repeat div{
+    background-image: url(../images/dot.jpg);
+    height: 500px;
+    border: 2px solid black;
+}
+
+.bg-repeat-no-repeat{
+    background-repeat: no-repeat;
+}
+
+.bg-repeat-repeat-x{
+    background-repeat: repeat-x;
+}
+
+.bg-repeat-repeat-y{
+    background-repeat: repeat-y;
+}
+
+.bg-repeat-repeat{
+    background-repeat: repeat;
+}
+
+.bg-size div{
+    background-image: url(../images/rabbit.jpg);
+    height: 400px;
+    border: 2px solid black;
+}
+
+.bg-size-cover{
+    background-size: cover;
+}
+
+.bg-size-contain{
+    background-size: contain;
+}
+
+.bg-size-300px-200px{
+    background-size: 300px 200px;
+}
+
+.bg-position div{
+    background-image: url(../images/dot.jpg);
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    height: 250px;
+}
+
+.bg-left-top{
+    background-position: left top;
+}
+
+.bg-center-top{
+    background-position: center top;
+}
+
+.bg-right-top{
+    background-position: right top;
+}
+
+.bg-left-center{
+    background-position: left center;
+}
+
+.bg-center-center{
+    background-position: center center;
+}
+
+.bg-right-center{
+    background-position: right center;
+}
+
+.bg-left-bottom{
+    background-position: left bottom;
+}
+
+.bg-center-bottom{
+    background-position: center bottom;
+}
+
+.bg-right-bottom{
+    background-position: right bottom;
+}
+
+.bg-attachment div{
+    background-image: url(../images/fruits.jpg);
+    height: 300px;
+    border: 2px solid black;
+}
+
+.bg-fixed{
+    background-attachment: fixed;
+}
+
+.bg-scroll{
+    background-attachment: scroll;
+}
+
+.bg-shorthand{
+    height: 400px;
+    background: darkred url(../images/fruits.jpg) no-repeat fixed center;
+    background-size: contain;
+}

@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    height: 250px;
+    float: left;
+}
+
+.fruit-image{
+    width: 250px;
+    height: 200px;
+    float: right;
+}
+
+p{
+    clear: none;
+}
+
+hr{
+    clear: both;
+}
+
+.clear-right{
+    clear: both;
+}

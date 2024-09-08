@@ -1,0 +1,22 @@
+table{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    opacity: .7;
+}
+
+th{
+    color: white;
+    background-color: salmon;
+}
+
+tr.odd{
+    color: black;
+    background-color: lightsalmon;
+}
+
+tr.even{
+    color: black;
+    background-color: white;
+}

@@ -1,0 +1,53 @@
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-shadow{
+    text-shadow: -10px -15px 6px darkblue;
+    /*text-shadow:h-offset v-offset blur-radius color;
+    */
+}
+
+.text-indent-20px{
+    text-indent: 20px;
+}
+
+.text-indent-50-percent{
+    text-indent: 50%;
+}
+
+.text-indent-5em{
+    text-indent: 5em;
+}
+
+.letter-spacing-10px{
+    letter-spacing: 10px;
+}
+
+.letter-spacing-20px{
+    letter-spacing: 20px;
+}
+
+.letter-spacing-30px{
+    letter-spacing: 30px;
+}
+
+.word-spacing-10px{
+    word-spacing: 10px;
+}
+
+.word-spacing-20px{
+    word-spacing: 20px;
+}
+
+.word-spacing-30px{
+    word-spacing: 30px;
+}
